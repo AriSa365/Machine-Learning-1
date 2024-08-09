@@ -25,10 +25,10 @@ The increasing number of cancellations calls for a Machine Learning based soluti
 - **no_of_weekend_nights:** Number of weekend nights (Saturday or Sunday) the guest stayed or booked to stay at the hotel
 - **no_of_week_nights:** Number of weeknights (Monday to Friday) the guest stayed or booked to stay at the hotel
 - **type_of_meal_plan:** Type of meal plan booked by the customer:
--       Not Selected – No meal plan selected
--       Meal Plan 1 – Breakfast
--       Meal Plan 2 – Half board (breakfast and one other meal)
--       Meal Plan 3 – Full board (breakfast, lunch, and dinner)
+       * Not Selected – No meal plan selected
+       * Meal Plan 1 – Breakfast
+       * Meal Plan 2 – Half board (breakfast and one other meal)
+       * Meal Plan 3 – Full board (breakfast, lunch, and dinner)
 - **required_car_parking_space:** Does the customer require a car parking space? (0 - No, 1- Yes)
 - **room_type_reserved:** Type of room reserved by the customer. The values are ciphered (encoded) by INN Hotels Group
 - **lead_time:** Number of days between the date of booking and the arrival date
